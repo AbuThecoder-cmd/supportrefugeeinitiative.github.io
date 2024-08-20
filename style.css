@@ -141,10 +141,10 @@ section h5{
 
 }
 .images{
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    margin-left: 190px;
+    margin-left: 300px;
 }
 
 /* Form Styles */
