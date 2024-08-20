@@ -144,7 +144,9 @@ section h5{
     width: 300px;
     height: 300px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    margin-left: 300px;
+    margin-left: 320px;
+    margin-top:20px;
+    margin-buttom:20px;
 }
 
 /* Form Styles */
